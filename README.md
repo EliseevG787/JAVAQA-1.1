@@ -1,5 +1,5 @@
-## Отчёт о тестировании приложения KeyValidator
-**Краткое описание**
+# Отчёт о тестировании приложения KeyValidator
+### Краткое описание
 
 12.01.2021 было проведено функциональное тестирование приложения [KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/artifacts/KeyValidator.class).
 
@@ -11,7 +11,8 @@
 * [Дефект #2](https://github.com/EliseevG787/JAVAQA-1.1/issues/2)
 * [Дефект #3](https://github.com/EliseevG787/JAVAQA-1.1/issues/3)
 
-**Описание процесса тестирования**
+### Описание процесса тестирования
+
 В процессе тестирования использовались следующие артефакты:
 
 [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
